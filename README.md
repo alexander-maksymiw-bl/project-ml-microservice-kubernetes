@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![Maksimum2511](https://circleci.com/gh/Maksimum2511/project-ml-microservice-kubernetes.svg?style=svg)](https://circleci.com/gh/Maksimum2511/project-ml-microservice-kubernetes)
 
 ## Project Overview
 
@@ -9,6 +9,7 @@ You are given a pre-trained, `sklearn` model that has been trained to predict ho
 ### Project Tasks
 
 Your project goal is to operationalize this working, machine learning microservice using [kubernetes](https://kubernetes.io/), which is an open-source system for automating the management of containerized applications. In this project you will:
+
 * Test your project code using linting
 * Complete a Dockerfile to containerize this application
 * Deploy your containerized application using Docker and make a prediction
